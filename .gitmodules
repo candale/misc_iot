@@ -1,0 +1,3 @@
+[submodule "temp_sensor/lib/SHT21"]
+	path = temp_sensor/lib/SHT21
+	url = https://github.com/markbeee/SHT21
